@@ -69,7 +69,7 @@
         "caseSensitive": false
       }
     ],
-    "no-use-before-define": "warn",
+    "no-use-before-define": "off",
     "no-shadow": [
       "warn",
       {
