@@ -1,4 +1,3 @@
-/* eslint-disable spaced-comment,@typescript-eslint/ban-ts-comment */
 // eslint-disable-next-line no-use-before-define
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
@@ -60,8 +59,6 @@ function Home() {
     const handleClickLogin = () => {
         dispatch(login());
     };
-
-    // @ts-ignore
     return (
         <Background key="Home" data-testid="Home">
             <Container fullScreen>

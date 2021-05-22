@@ -11,7 +11,7 @@ function Footer() {
                         frameBorder="0"
                         height="20px"
                         scrolling="0"
-                        src="https://ghbtns.com/github-btn.html?user=gilbarbara&repo=react-redux-saga-boilerplate&type=star&count=true"
+                        src="https://ghbtns.com/github-btn.html?user=dev-me-live&repo=react-client-app&type=star&count=true"
                         title="GitHub Stars"
                         width="110px"
                     />
@@ -19,7 +19,7 @@ function Footer() {
                         frameBorder="0"
                         height="20px"
                         scrolling="0"
-                        src="https://ghbtns.com/github-btn.html?user=gilbarbara&type=follow&count=true"
+                        src="https://ghbtns.com/github-btn.html?user=ql190990&type=follow&count=true"
                         title="GitHub Follow"
                         width="130px"
                     />

@@ -1,7 +1,7 @@
 import is from 'is-lite';
 import { getTheme, px } from 'styled-minimal';
 
-export const headerHeight = 70;
+export const headerHeight = 60;
 
 export const appColor = '#00b4d5';
 

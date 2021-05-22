@@ -64,8 +64,8 @@ function Root() {
                         defaultTitle={config.name}
                         defer={false}
                         encodeSpecialCharacters
-                        htmlAttributes={{ lang: 'vi-br' }}
-                        titleAttributes={{ itemprop: 'name', lang: 'vi-br' }}
+                        htmlAttributes={{ lang: 'vi-en' }}
+                        titleAttributes={{ itemprop: 'name', lang: 'vi-en' }}
                         titleTemplate={`%s | ${config.name}`}
                     >
                         <link
